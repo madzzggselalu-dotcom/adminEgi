@@ -1,6 +1,6 @@
 {
   "AppConfig": {
-    "bannerText": "Awaiting Authentication.",
+    "bannerText": "ngapain buka bg? kalo lu gada keynya wkwk",
     "getKeyText": "🔑 Get Key ↗️",
     "getKeyUrl": "https://t.me/dpmodsdialog",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
@@ -9,11 +9,9 @@
     "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
-      "👨‍💻 Engine by DPMods 👨‍💻",
-      "🚀 DPMods V4 🚀",
-      "🛠 Stable Build"
+      "login aja kalo punya keynya"
     ],
-    "title": "DPMods Core",
+    "title": "EGi dialog",
     "updateMsg": "New DPMods version available! Please update.",
     "updateRequired": false,
     "updateUrl": "https://t.me/dpmodsdialog"
